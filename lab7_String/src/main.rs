@@ -1,7 +1,6 @@
 fn main() {
     //声明一个空数组
-    let mut s = String::new();
-
+    
     let data = "initial contents";
 
     let s = data.to_string();
